@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/narai_adhikary" target="blank"><img src="https://img.shields.io/twitter/follow/narai_adhikary?logo=twitter&style=for-the-badge" alt="narai_adhikary" /></a> </p>
 
-- 🔭 I’m currently working on **Laravel**
+- 🔭 I’m currently working on **Laravel, Codeigniter, Electron, React-Native based projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wovosoft](https://github.com/wovosoft)
 
