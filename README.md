@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narayan Adhikary</h1>
-<h3 align="center">Senior Web Application Developer</h3>
+<h3 align="center">Sr. Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wovosoft&label=Profile%20views&color=0e75b6&style=flat" alt="wovosoft" /> </p>
 
