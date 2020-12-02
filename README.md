@@ -23,8 +23,8 @@
 <p align="left">
 <a href="https://twitter.com/narai_adhikary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="narai_adhikary" height="30" width="40" /></a>
   <a href="https://facebook.com/narayan.adhikary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Narayan Adhikary" height="30" width="40" /></a>
-  <a href="https://dev.to/wovosoft">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Narayan Adhikary's DEV Profile" height="30" width="30">
+  <a href="https://dev.to/wovosoft" target="blank" >
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Narayan Adhikary's DEV Profile" height="30" width="40" >
 </a>
 </p>
 
