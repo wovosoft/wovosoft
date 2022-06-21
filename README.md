@@ -5,15 +5,13 @@
 
 
 
-- 🔭 I’m currently working on **Laravel, Codeigniter, Electron, React-Native based projects**
+- 🔭 I’m currently working on **Laravel, Electron, React-Native based projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wovosoft](https://github.com/wovosoft)
 
-- 📝 I regulary write articles on [https://seicoder.com](https://seicoder.com)
-
 - 💬 Ask me about **reactjs, vuejs, react-native, nativescript, laravel, codeigniter**
 
-- 📫 How to reach me **narayanadhikary420@gmail.com**
+- 📫 How to reach me **wovosoft@gmail.com**
 
 - ⚡ Fun fact **I think programming is the future**
 
