@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narayan Adhikary</h1>
-<h3 align="center">Software Developer (Senior Officer (ICT)) at Bangladesh Krishi Bank</h3>
+<h3 align="center">Software Developer (Senior Officer (ICT))<br/> at Bangladesh Krishi Bank</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wovosoft)](https://github.com/wovosoft)
 
