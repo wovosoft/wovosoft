@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Laravel, Electron, React-Native based projects**
+- 🔭 I’m currently working on **Laravel, Vue, Reactjs, React-Native based projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wovosoft](https://github.com/wovosoft)
 
