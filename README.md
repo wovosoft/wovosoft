@@ -6,33 +6,27 @@ Bangladesh Krishi Bank 🇧🇩
 </h3>
 
 <p align="center">
-🏦 Core Banking Systems · 🔐 Secure APIs · ☎️ IVR & Telephony · ⚙️ Backend Architecture
+🏦 Core Banking Systems · 🔐 Secure APIs · 🤖 Applied AI · ☎️ IVR & Telephony · ⚙️ Backend Architecture
 </p>
 
-<p align="center">
-<a href="https://github.com/wovosoft">
-<img src="https://github-profile-trophy.vercel.app/?username=wovosoft&theme=flat&margin-w=10" />
-</a>
-</p>
-
----
 
 ## 👨‍💼 About Me
 
-I am a senior software engineer working in the **banking and financial sector**, with real-world experience building **secure, production-grade systems** used by institutional environments.
+I am a senior software engineer working in the **banking and financial sector**, with hands-on experience building **secure, production-grade systems** and **applied AI solutions** used in institutional environments.
 
-My focus areas include **Core Banking Systems (CBS)**, **security-first API platforms**, **IVR & telephony automation**, and **backend architecture** designed for reliability, auditability, and regulatory compliance.
+My work spans **Core Banking Systems (CBS)**, **security-first backend platforms**, **AI-driven automation**, **IVR & telephony systems**, and **data-processing pipelines**, with strong emphasis on **reliability, auditability, and compliance**.
 
----
 
 ## 🛠️ Technical Stack
 
 ### Backend & APIs
-- Laravel (advanced, modular architecture)
+- Laravel (advanced, modular & package-driven architecture)
 - PHP 8+
-- ASP.NET Core (enterprise MVC concepts)
+- ASP.NET Core (enterprise MVC patterns)
 - REST APIs, Webhooks
 - OAuth2, Mutual TLS (mTLS)
+- Python (Django, FastAPI etc.)
+- AdonisJS
 
 ### Frontend & Mobile
 - Vue.js
@@ -41,13 +35,27 @@ My focus areas include **Core Banking Systems (CBS)**, **security-first API plat
 - Inertia.js
 - Tailwind CSS
 
+### 🤖 AI / Machine Learning (Applied)
+- AI agent development (tool-using, workflow-driven agents)
+- Hugging Face models (inference & pipeline orchestration)
+- Text generation, classification, embeddings
+- Speech-to-Text & Text-to-Speech integration
+- Model orchestration with backend services
+
+### 🧪 Data & Python Tooling
+- Python
+- NumPy
+- Pandas
+- Data preprocessing & transformation pipelines
+- Batch & scheduled AI jobs
+
 ### Telephony & Voice Systems
 - FreeSWITCH
 - SIP
 - ESL / mod_curl
 - Google Text-to-Speech
 - Speech-to-Text
-- AI-driven voice workflows
+- AI-driven conversational IVR
 
 ### Security & Infrastructure
 - TLS / SSL / PKI
@@ -61,18 +69,16 @@ My focus areas include **Core Banking Systems (CBS)**, **security-first API plat
 - MySQL
 - Object storage (Cloudflare R2 compatible)
 
----
-
 ## 🧠 Domain Expertise
 
 - Core Banking Systems (CBS)
-- Financial dashboards & reporting
+- Secure inter-system communication
+- Financial dashboards & regulatory reporting
 - HRMS & Payroll integration
-- Audit-friendly system design
-- Regulatory & compliance-aware architecture
-- Voice-based customer interaction (IVR)
+- AI-assisted automation for enterprise workflows
+- Voice-based customer interaction (IVR & AI agents)
+- Audit-friendly and compliance-aware system design
 
----
 
 ## 🚀 Featured Work & System Design Experience
 
@@ -84,17 +90,23 @@ My focus areas include **Core Banking Systems (CBS)**, **security-first API plat
 
 **Tech:** Laravel, PostgreSQL, OpenSSL, PKI
 
----
+### 🤖 AI Agents & Automation Pipelines
+- Designed AI agents capable of:
+  - Tool invocation
+  - Decision-based workflows
+  - Backend service integration
+- Built batch and scheduled AI pipelines using Hugging Face models
+- Integrated AI outputs into production systems (APIs, IVR, reports)
+
+**Tech:** Python, Hugging Face, NumPy, Pandas, AI APIs
 
 ### ☎️ Intelligent IVR & Voice Automation Platform
 - Built IVR systems using FreeSWITCH
-- Dynamic call flows controlled by Laravel APIs
-- Integrated Text-to-Speech, Speech-to-Text, and AI responses
+- AI-assisted call flows driven by backend logic
+- Integrated Speech-to-Text and Text-to-Speech
 - Supports Bangla and English voice prompts
 
 **Tech:** FreeSWITCH, Laravel, Google TTS, AI APIs
-
----
 
 ### 🏦 Core Banking Dashboards & Reports
 - Developed dashboards for:
@@ -105,26 +117,22 @@ My focus areas include **Core Banking Systems (CBS)**, **security-first API plat
 
 **Tech:** Laravel, Vue.js, PostgreSQL
 
----
-
 ### 📄 Document Automation & Legacy Data Processing
 - Automated DOCX and PDF generation
 - Built Bijoy / SutonnyMJ → Unicode Bangla converters
 - Browser-based and backend implementations
 
-**Tech:** PHP, JavaScript, PHPWord
-
----
+**Tech:** PHP, JavaScript, Python
 
 ## 💬 Ask Me About
 
-- Laravel system architecture
 - Core Banking Solution (CBS) design
 - Secure API authentication (mTLS, PKI)
-- FreeSWITCH & IVR automation
+- AI agent architecture & orchestration
+- Hugging Face pipelines & data processing
+- FreeSWITCH & AI-powered IVR
 - Backend modernization (PHP → .NET)
 
----
 
 ## 📫 Contact
 
@@ -134,20 +142,7 @@ My focus areas include **Core Banking Systems (CBS)**, **security-first API plat
 - ✍️ DEV.to: https://dev.to/wovosoft
 - 👨‍💻 GitHub: https://github.com/wovosoft
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wovosoft&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wovosoft&show_icons=true&locale=en" />
-</p>
-
----
 
 ⚡ **Philosophy**
 
-> Software in banking is not just functionality — it is **trust, correctness, and responsibility**.
+> In regulated systems, AI is not magic — it is engineering, discipline, and responsibility.
